@@ -1,0 +1,28 @@
+site_name: Moje projekty
+site_author: Alicja Bednarska-Majchrzak
+site_description: >-
+    Portfolio moich wspaniałych projektów z Data Science i AI!
+
+theme:
+  name: material
+  palette:
+    primary: green
+
+nav:
+  - Strona główna: index.md
+  - Obecny projekt:
+      "POMOCNIK Językowy": 'Aplikacja_pomocnik_językowy/index.md'
+  - Poprzednie projekty:
+      "Iris EDA": Iris/index.md
+      "Titanic EDA": Titanic/index.md
+      "Aplikacja Notatki Audio App": Aplikacja_Notatki_Audio/index.md
+      "NASZ GPT App": NASZ_GPT_App/index.md
+      "Ankieta powitalna": Ankieta_powitalna/index.md
+      "Aplikacja Find Friends App": Aplikacja_find_friends/index.md
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+
+ 
