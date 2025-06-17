@@ -2,6 +2,8 @@ site_name: Moje projekty
 site_author: Alicja Bednarska-Majchrzak
 site_description: >-
     Portfolio moich wspaniałych projektów z Data Science i AI!
+repo_name: Alice395136/ds_ai_portfolio
+repo_url: https://github.com/Alice395136/ds_ai_portfolio.git
 
 theme:
   name: material
