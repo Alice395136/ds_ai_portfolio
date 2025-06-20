@@ -1,5 +1,5 @@
 # Zapraszam do zapoznania się z analizą danych pasażerów Titanica – jednej z najbardziej znanych katastrof morskich w historii.
-_Data utworzenia_: luty 2025
+**_Data utworzenia_: luty 2025**
 
 W ramach eksploracyjnej analizy danych (EDA) przygotowałam analizę zbioru danych dotyczących katastrofy Titanica. Celem było zrozumienie struktury danych, sprawdzenie brakujących wartości oraz poznanie zależności między cechami pasażerów a ich szansami na przeżycie. Przeanalizowałam m.in. wpływ płci, wieku, klasy podróży czy liczby członków rodziny na pokładzie na przeżywalność. Analiza została wsparta wizualizacjami, które pozwoliły lepiej zobrazować ukryte wzorce i zależności w danych.
 

@@ -1,5 +1,5 @@
 ## Aplikacja do inteligentnych notatek głosowych z Qdrant i AI
-_Data utworzenia_: marzec 2025
+**_Data utworzenia_: marzec 2025**
 
 Stworzyłam interaktywną aplikację webową do zarządzania notatkami, która wykorzystuje sztuczną inteligencję oraz bazę wektorową Qdrant. Aplikacja umożliwia nagrywanie, transkrypcję, wyszukiwanie oraz odtwarzanie notatek głosowych w prostym i intuicyjnym interfejsie.
 

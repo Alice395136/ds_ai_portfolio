@@ -1,6 +1,6 @@
 # APLIKACJA - Find Friends 
 ## "Kim jesteśmy? Interaktywna analiza odpowiedzi uczestników kursu Data Science"
-_Data utworzenia_: kwiecień 2025
+**_Data utworzenia_: kwiecień 2025**
 
 Prezentowana aplikacja stworzona w Streamlit umożliwia interaktywną eksplorację danych z powitalnej ankiety uczestników kursu. Dzięki niej w prosty sposób można analizować różnorodne aspekty, takie jak:
 
@@ -25,15 +25,12 @@ Po lewej stronie aplikacji wybieramy dane ogólne (rozkład płci, wieku, wykszt
 
 <figure markdown="1">
   <img src="obraz1.png" width="700" alt="Obraz 1">
-  <figcaption>Informacja o ankiecie</figcaption>
 </figure>
 
 <figure markdown="1">
   <img src="obraz2.png" width="700" alt="Obraz 2">
-  <figcaption>Przykład 1</figcaption>
 </figure>
 
 <figure markdown="1">
   <img src="obraz3.png" width="700" alt="Obraz 3">
-  <figcaption>Przykład 2</figcaption>
 </figure>

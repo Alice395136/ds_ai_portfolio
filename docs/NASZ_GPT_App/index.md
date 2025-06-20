@@ -1,5 +1,5 @@
 ### 💬 NaszGPT – Osobisty Asystent AI z Osobowością, GUI i Świadomością Kosztów
-_Data utworzenia_: marzec 2025
+**_Data utworzenia_: marzec 2025**
 
 **Technologie**: Python, Streamlit, OpenAI API, GPT-4o, GPT-4o-mini, .env, JSON, Markdown
 

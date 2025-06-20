@@ -1,5 +1,5 @@
 # Pomocnik Językowy – Twój pomocnik do nauki języków
-_Data utworzenia_: maj/czerwiec 2025
+**_Data utworzenia_: maj/czerwiec 2025**
 
 Pomocnik Językowy to aplikacja, która pomaga uczyć się języków obcych w prosty i wygodny sposób. Oto, co potrafi:
 
